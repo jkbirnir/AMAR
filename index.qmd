@@ -1,0 +1,11 @@
+---
+title: "AMAR"
+---
+
+This is the AMAR website. Here you can find links to AMAR publications and the AMAR data. There are also links here to the site of the original MAR data and some information about our current work to update the data.
+
+Importantly we are e are working on a better interface for downloading and working with the data so please be patient and do come back to
+
+```{r}
+1 + 1
+```
