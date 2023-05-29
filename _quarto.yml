@@ -2,12 +2,14 @@ project:
   type: website
 
 website:
-  title: "AMAR1"
+  title: "AMAR"
   navbar:
+    background: maroon
+    foreground: white
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: AMAR
+    
 
 format:
   html:

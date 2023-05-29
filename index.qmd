@@ -1,11 +1,32 @@
 ---
-title: "AMAR"
+title: ""
 ---
 
-This is the AMAR website. Here you can find links to AMAR publications and the AMAR data. There are also links here to the site of the original MAR data and some information about our current work to update the data.
+This is the AMAR (All Minorities at Risk) website. Here you can find links to AMAR publications and the AMAR data. There are also links here to the site of the original MAR (Minorities at Risk) data.
 
-Importantly we are e are working on a better interface for downloading and working with the data so please be patient and do come back to
+Importantly we are are working on a user friendly interface for downloading and working with the data and we are in the process of updating the data so please be patient and check back frequently.
 
-```{r}
-1 + 1
-```
+# The AMAR data
+
+These are the 2 articles that outline the format of the data.
+
+If you are looking to use the data. Please cite:
+
+Jóhanna Birnir; David Laitin; Jonathan
+Wilkenfeld; David Waguespack; Agatha Hultquist; Ted Gurr. [Introducing the AMAR (All Minorities at Risk Data.](https://journals.sagepub.com/doi/full/10.1177/0022002717719974) 2018. *Journal of Conflict Resolution.* 62(1):203-226.
+
+The replication files are available [here.](https://www.dropbox.com/sh/g30wur1u0g8bppt/AAA01uvF4hEwYs8OU11wtnbea?dl=0)
+
+If you are looking to use the group lists please cite:
+
+Jóhanna Birnir, Jonathan
+Wilkenfeld, James Fearon, David Laitin, Ted Gurr, Stephen Saideman, Dawn Brancati,
+Amy Pate and Agatha Hultquist. [Socially Relevant Ethnic Groups, Ethnic Structure and AMAR.](https://journals.sagepub.com/doi/full/10.1177/0022343314536915) 2015. *Journal of Peace Research.* 52:105-109.
+
+The group lists is available [here.](files/amar_ethnic_groups_list_january_2015.xls)
+
+The AMAR codebook v1 is available [here.](files/AMAR Phase1Codebook.FINAL.1.web.Aug232016.pdf)
+
+# The original MAR (Minorities at Risk) data
+
+This is the [website](http://www.mar.umd.edu/mar_data.asp) where you can find the original MAR data and Codebooks along with some qualitative accounts of the minority groups.
