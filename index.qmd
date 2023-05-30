@@ -2,20 +2,23 @@
 title: ""
 ---
 
-This is the AMAR (All Minorities at Risk) website. Here you can find links to AMAR publications and the AMAR data. There are also links here to the site of the original MAR (Minorities at Risk) data.
+This is the AMAR (All Minorities at Risk) webpage. 
+AMAR is an independent continuation of the Minorities at Risk (MAR) data that Ted Gurr began collecting in the 1980s about the political trajectories of minorities engaging the state worldwide.
 
-Importantly we are are working on a user friendly interface for downloading and working with the data and we are in the process of updating the data so please be patient and check back frequently.
+On this page you can find links to publications outlining the structure and purpose of the AMAR data.  There are also links to the data produced in the project and a link to the site of the original MAR (Minorities at Risk) data.
 
-# The AMAR data
+Please note that we are are working on a more user friendly interface for downloading and working with the data and we also are in the process of updating the data so please be patient and check back frequently.
 
-These are the 2 articles that outline the format of the data.
+# The AMAR (All-Minorities at Risk) data
+
+These are the 2 articles that outline the purpose and format of the data.
 
 If you are looking to use the data. Please cite:
 
 Jóhanna Birnir; David Laitin; Jonathan
 Wilkenfeld; David Waguespack; Agatha Hultquist; Ted Gurr. [Introducing the AMAR (All Minorities at Risk Data.](https://journals.sagepub.com/doi/full/10.1177/0022002717719974) 2018. *Journal of Conflict Resolution.* 62(1):203-226.
 
-The replication files are available [here.](https://www.dropbox.com/sh/g30wur1u0g8bppt/AAA01uvF4hEwYs8OU11wtnbea?dl=0)
+The replication data files are available [here.](https://www.dropbox.com/sh/g30wur1u0g8bppt/AAA01uvF4hEwYs8OU11wtnbea?dl=0)
 
 If you are looking to use the group lists please cite:
 
