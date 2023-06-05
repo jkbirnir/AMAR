@@ -3,17 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "AMAR"
+  title: ""
   navbar:
     background: maroon
     foreground: white
     left:
-      - href: index.qmd
-        text: AMAR
-      - href: https://johannabirnir.com/data.html
-        text: Other data projects
-      - href: https://johannabirnir.com/ 
-        text: Home
+      - text: "AMAR""
+        href: index.qmd
+      - text: "Other data projects""
+        href: https://johannabirnir.com/data.html
+      - text: "Home""
+        href: https://johannabirnir.com/ 
 
 format:
   html:
