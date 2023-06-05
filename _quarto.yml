@@ -8,8 +8,8 @@ website:
     background: maroon
     foreground: white
     left:
-      - href: index.qmd
-        text: "AMAR"
+      - href: https://jkbirnir.github.io/AMAR/
+        text: AMAR
       - href: https://johannabirnir.com/data.html
         text: Other data projects
       - href: https://johannabirnir.com/ 
