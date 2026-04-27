@@ -16,6 +16,14 @@ Overos, Hlatky, Pathak, Goers, Gouws-Dewar, Smith, Chew, Birnir and Liu [Coding 
 
 **COMING SOON.** Our current work (Pathak and Birnir, with a number of students) aims to develop a method to go beyond binary coding of AMAR data with the objective of updating the AMAR data and filling in information for missing groups from the AMAR sample frame.
 
+# AMAR companion data
+
+We have completed and are in the process of completing the coding of 2 AMAR companion data-sets.
+
+The [A-Religion](https://jkbirnir.github.io/A-Religion/) (All-Religion) data codes all AMAR Groups for religious families and sects (Muslim and Christian groups).
+
+The GeoAMAR data (coming soon) geocodes all AMAR groups.
+
 # The AMAR (All-Minorities at Risk) data
 
 These are the 2 articles that outline the purpose and format of the AMAR data.
@@ -37,3 +45,5 @@ The AMAR codebook v1 is available [here.](files/AMAR%20Phase1Codebook.FINAL.1.we
 # The original MAR (Minorities at Risk) data
 
 This is the [website](http://www.mar.umd.edu/mar_data.asp) where you can find the original MAR data and Codebooks along with some qualitative accounts of the minority groups.
+
+# 
